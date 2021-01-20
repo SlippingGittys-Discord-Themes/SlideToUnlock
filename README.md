@@ -7,5 +7,7 @@ ___
 
 How to install
   * Use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord)
+  
 or
+
   * Use [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases)
