@@ -1,7 +1,8 @@
 # SlideToUnlock
 A Discord Theme inspired by 2012 Design Characteristics
+___
 
-When in doubt, background: linear-gradient(rgb(x, x, x), rgb(x, x, x)) !important;.
+This is a WIP theme. Not all elements have been covered.
 
 ___
 
