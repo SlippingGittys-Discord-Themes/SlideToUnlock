@@ -1,4 +1,4 @@
-/* Force Font Helvetica*/
+//* Force Font Helvetica*/
 * { 
     font-family: Helvetica, sans-serif !important; 
     text-shadow: 2px 2px 2px #00000052;
@@ -362,7 +362,7 @@
     background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
 }
 .titleBar-AC4pGV {
-    margin-top: 0px;
+    margin-top: 1px;
     background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
 }
 .winButton-iRh8-Z {
