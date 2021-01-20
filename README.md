@@ -1,5 +1,4 @@
-# ![SlideToUnlock](https://thumbs.gfycat.com/DearestSoupyLamprey-size_restricted.gif)
-
+# SlideToUnlock
 A Discord Theme inspired by 2012 Design Characteristics (This is a WIP theme. Not all elements have been covered.)
 
 **Disclaimer: The custom CSS looks a little spaghetti. I'll clean it up when I'm finished.**
