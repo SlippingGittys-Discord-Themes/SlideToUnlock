@@ -6,4 +6,4 @@ ___
 
 How to install
   * Use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord)
-  * Or use [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases)
+  * Or use [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)
