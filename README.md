@@ -3,7 +3,7 @@ A Discord Theme inspired by 2012 Design Characteristics (This is a WIP theme. No
 
 How to install:
 
-* Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
+* Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 * Download [SlideToUnlock.user.css](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/SlideToUnlock.user.css)
 
 
