@@ -1,0 +1,8 @@
+{
+    "name": "SlideToUnlock",
+    "version": "2021.01.21",
+    "license": "WTFPL",
+    "theme": "SlideToUnlock.user.css",
+    "author": "SlippingGitty",
+    "description": "A Discord Theme inspired by 2012 Design Characteristics."
+}
