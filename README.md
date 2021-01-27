@@ -12,7 +12,7 @@ A Discord Theme inspired by 2007-2012 Design Characteristics (This is a WIP them
   * place in your BetterDiscord themes folder
 * Powercord and Vizality users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Discord-2012-Theme/`
- * Goosemod users
+* Goosemod users
   * Download [SlideToUnlockTheme.js](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/SlideToUnlockTheme.js) and import the file from the "Local Modules" tab.
 
 # ![screenshot](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/screenshots/example.png)
