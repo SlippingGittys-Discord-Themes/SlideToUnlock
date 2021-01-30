@@ -2,7 +2,7 @@
 A Discord Theme inspired by 2007-2012 Design Characteristics (This is a WIP theme. Not all elements have been covered.)
 *There is no plans to cover Light Theme.*
 
-# ![screenshot](https://i.imgur.com/HEnMjIk.png)
+# ![screenshot](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/screenshots/screenshot%20update.png)
 
 **How to install:**
 
