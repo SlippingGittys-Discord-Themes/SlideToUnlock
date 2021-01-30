@@ -1,4 +1,4 @@
-# SlideToUnlock 
+<h1 align="center">SlideToUnlock</h1>
 A Discord Theme inspired by 2007-2012 Design Characteristics (This is a WIP theme. Not all elements have been covered.)
 *There is no plans to cover Light Theme.*
 
