@@ -1,4 +1,4 @@
-# ![i](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/etc/discordios650x50.png)SlideToUnlock 
+# SlideToUnlock 
 A Discord Theme inspired by 2007-2012 Design Characteristics (This is a WIP theme. Not all elements have been covered.)
 *There is no plans to cover Light Theme.*
 
