@@ -1,5 +1,5 @@
 <h1 align="center">SlideToUnlock</h1>
-A Discord Theme inspired by 2007-2012 Design Characteristics (This is a WIP theme. Not all elements have been covered.)
+<p align="center">A Discord Theme inspired by skeuomorphic design.</p>
 
 # ![screenshot](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/screenshots/screenshot%20update.png)
 
@@ -13,4 +13,4 @@ A Discord Theme inspired by 2007-2012 Design Characteristics (This is a WIP them
 * Powercord and Vizality users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Discord-2012-Theme/`
 * Goosemod users
-  * Download [SlideToUnlockTheme.js](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlockTheme.js) and import the file from the "Local Modules" tab.
+  * Soon (?): install from the Module Store.
