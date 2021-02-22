@@ -1,4 +1,4 @@
-let version = '2021.01.27.01';
+let version = '2021.02.22.EOL';
 
 let el;
 
