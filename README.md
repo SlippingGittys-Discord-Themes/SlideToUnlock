@@ -11,6 +11,6 @@
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
 * Powercord and Vizality users
-  * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Discord-2012-Theme/`
+  * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
 * Goosemod users
   * Soon (?): install from the Module Store.
