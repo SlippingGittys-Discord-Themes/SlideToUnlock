@@ -7,7 +7,7 @@
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
-* Download [SlideToUnlock.user.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.user.css) and either
+* Download [SlideToUnlock.theme.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.theme.css) and either
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
 * Powercord and Vizality users
