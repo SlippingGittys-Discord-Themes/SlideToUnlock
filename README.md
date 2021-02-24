@@ -13,4 +13,4 @@
 * Powercord and Vizality users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
 * Goosemod users
-  * Soon (?): install from the Module Store.
+  * Available now on the the Module Store.
