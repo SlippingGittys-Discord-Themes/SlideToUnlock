@@ -1,6 +1,6 @@
 <h1 align="center">SlideToUnlock [Archived]</h1>
 
-# Notice: There will be no further development of this project. Check out https://github.com/Marda33/SkeuoCord
+# Notice: There will be no further development of this project. Check out https://github.com/Marda33/SkeuoCord or https://github.com/XYZenix/DTM-08
 
 <p align="center">A Discord Theme inspired by skeuomorphic design.</p>
 
