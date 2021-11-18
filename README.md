@@ -1,7 +1,4 @@
 <h1 align="center">SlideToUnlock [Archived]</h1>
-
-# Notice: There will be no further development of this project. Check out https://github.com/Marda33/SkeuoCord or https://github.com/XYZenix/DTM-08
-
 <p align="center">A Discord Theme inspired by skeuomorphic design.</p>
 
 # ![screenshot](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/screenshots/screenshot%20update.png)
@@ -17,3 +14,10 @@
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
 * Goosemod users
   * Available now on the the Module Store.
+___
+### Notice: This theme is no longer considered my priority and will recive minimal to no updates for the long term. 
+
+Check out the following if you want themes like this, but with frequent development: 
+
+* https://github.com/Marda33/SkeuoCord
+* https://github.com/XYZenix/DTM-08
