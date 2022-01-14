@@ -3,19 +3,19 @@
 
 # ![screenshot](https://files.catbox.moe/ct94w9.png)
 
-**How to install:**
+### How to use this theme:
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
-* Download [SlideToUnlock.theme.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.theme.css) and either
+* BetterDiscord users should download [SlideToUnlock.theme.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.theme.css) and either
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
-* Powercord and Vizality users
+* Powercord users:
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
 * Goosemod users
   * Available now on the the Module Store.
 ___
-### Notice: Are you looking for similar themes to this? Check these out!
+**Notice: Are you looking for similar themes to this? Check these out!**
 
 Check out the following if you want themes like this, but with frequent development: 
 
