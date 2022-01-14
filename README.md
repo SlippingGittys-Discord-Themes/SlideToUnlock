@@ -15,7 +15,7 @@
 * Goosemod users
   * Available now on the the Module Store.
 ___
-### Notice: This theme is no longer considered my priority and will recive minimal to no updates for the long term. 
+### Notice: Are you looking for similar themes to this? Check these out!
 
 Check out the following if you want themes like this, but with frequent development: 
 
