@@ -3,7 +3,7 @@
 
 # ![screenshot](https://files.catbox.moe/ct94w9.png)
 
-### How to use this theme:
+### How to use 📖:
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
@@ -15,9 +15,7 @@
 * Goosemod users
   * Available now on the the Module Store.
 ___
-**Notice: Are you looking for similar themes to this? Check these out!**
-
-Check out the following if you want themes like this, but with frequent development: 
+**Notice: Are you looking for similar themes? Check these out! 📸**
 
 * https://github.com/Marda33/SkeuoCord
 * https://github.com/XYZenix/DTM-08
