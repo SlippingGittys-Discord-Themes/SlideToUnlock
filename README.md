@@ -3,7 +3,7 @@
 
 # ![screenshot](https://files.catbox.moe/ct94w9.png)
 
-### How to use 📖
+## How to use 📖
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
