@@ -1,7 +1,7 @@
 <h1 align="center">SlideToUnlock</h1>
 <p align="center">A Discord Theme inspired by skeuomorphic design.</p>
 
-# ![screenshot](https://files.catbox.moe/ct94w9.png)
+# ![screenshot](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/screenshots/aCCIaKvdkM.png)
 
 ## How to use 📖
 
