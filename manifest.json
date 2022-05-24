@@ -1,9 +1,9 @@
 {
     "icon": "assets/icon.png",
     "name": "SlideToUnlock",
-    "description": "A Discord Theme inspired by 2012 Design Characteristics.",
-    "version": "2021.02.05.01",
-    "author": "SlippingGitty",
+    "description": "A Discord Theme inspired by Skeuomorphism."
+    "version": "2022.05.24",
+    "author": "Vozy",
     "theme": "SlideToUnlock.theme.css",
-    "license": "WTFPL"
+    "license": "MIT"
 }
