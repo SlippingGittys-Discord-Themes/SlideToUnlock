@@ -36,3 +36,5 @@ ___
 * https://github.com/Marda33/SkeuoCord
 * https://github.com/XYZenix/DTM-08
 
+___
+support server 💬: https://discord.gg/xWYMgbD28p
