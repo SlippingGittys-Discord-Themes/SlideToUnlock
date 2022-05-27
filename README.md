@@ -9,9 +9,9 @@
 
 * BetterDiscord/BeautifulDiscord users can download [SlideToUnlock.theme.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.theme.css) and either
   * inject the CSS file with BeautifulDiscord
-  * place in your BetterDiscord themes folder
+  * place in the BetterDiscord themes folder
 * Powercord users:
-  * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
+  * open a terminal in the themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
 * Goosemod users
   * Available now on the the Module Store.
 
