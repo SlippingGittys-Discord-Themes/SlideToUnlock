@@ -1,0 +1,17 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         SlideToUnlock
+    @description  A Discord Theme inspired by Skeuomorphism
+    @author       Vozer
+    @namespace    https://github.com/SlippingGitty/SlideToUnlock/
+    @version      1.0.0
+    ==/UserStyle== */
+
+/* 
+////////////////
+///IMPORT CSS
+///////////////
+*/
+  
+@import url("https://slippinggitty.github.io/SlideToUnlock.css");
+}
