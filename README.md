@@ -19,8 +19,12 @@
 
 ## Bleeding Branch 🩸
 
-**You can switch to an unstable, semi-constantly updating version of this theme by doing the following:**
+**You can switch to an unstable, semi-constantly updating version of this theme by doing either of the following:**
 
+#### Powercord
+* Open a terminal in the themes folder and type `git clone -b dev https://github.com/SlippingGitty/SlideToUnlock.git`
+
+#### BetterDiscord
 * Locate **SlidetoUnlock.theme.css**, and open it in your prefered text editor
 * Find `@import url("");`, and replace the URL with `https://slippinggitty.github.io/SlidetoUnlockBleeding.css`
 
