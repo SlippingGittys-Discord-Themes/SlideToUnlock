@@ -3,24 +3,14 @@
 
 # ![screenshot](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/screenshots/aCCIaKvdkM.png)
 
-## How to use 📖
+## How to use this Bleeding Branch 🩸 📖
 
-#### Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp). Browser users should look into [Stylus](https://github.com/openstyles/stylus).
+**You can use this unstable, semi-constantly updating version of the theme by doing either of the following:**
 
-* BetterDiscord/BeautifulDiscord users can download [SlideToUnlock.theme.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.theme.css) and either
-  * Inject the CSS file with BeautifulDiscord
-  * Place in the BetterDiscord themes folder
-* Powercord users:
-  * Open a terminal in the themes folder and type `git clone https://github.com/SlippingGitty/SlideToUnlock/`
-* Goosemod users
-  * Available now on the the Module Store.
-* Stylus
-  * Head [here](https://github.com/SlippingGitty/SlideToUnlock/raw/main/SlideToUnlock.user.css) to install.
+#### Powercord
+* Open a terminal in the themes folder and type `git clone -b dev https://github.com/SlippingGitty/SlideToUnlock.git`
 
-## Bleeding Branch 🩸
-
-**You can switch to an unstable, semi-constantly updating version of this theme by doing the following:**
-
+#### BetterDiscord
 * Locate **SlidetoUnlock.theme.css**, and open it in your prefered text editor
 * Find `@import url("");`, and replace the URL with `https://slippinggitty.github.io/SlidetoUnlockBleeding.css`
 
