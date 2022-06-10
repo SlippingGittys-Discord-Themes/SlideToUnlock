@@ -1,0 +1,278 @@
+/*
+////////////////
+///CHAT
+////////////////
+*/
+
+/* Text Box */
+.scrollableContainer-15eg7h,
+.hasConnectedBar-1vN2JH {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68));
+  border: 1px solid #00000065;
+  box-shadow: 0 0 10px 3px #0000008c;
+}
+.scrollableContainer-15eg7h:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+.root-22AK9z {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+}
+
+/* Upload Preview */
+.upload-3GTSF9 {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68));
+  border: 1px solid #00000065;
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+.actionBarIcon-3IdPoi {
+  color: black;
+}
+
+/* Replying Bar */
+.replyBar-1oi75v {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%, rgb(51, 51, 51) 50%, rgb(161, 161, 161) 100%);
+  border: 1px solid #00000065;
+  border-radius: 3px;
+}
+
+/* Chat */
+.chatContent-3KubbW {
+  background: linear-gradient(rgb(81, 85, 94), rgb(41, 42, 47));
+  border: 1px solid #00000065;
+}
+.grid-1aWVsE {
+  font-weight: 700;
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+}
+.theme-dark .form-3gdLxP:before {
+  display: none;
+}
+
+/* Avatars */
+.avatar-2e8lTP.clickable-31pE3P,
+.avatar-SmRMf {
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px #00000036;
+  height: 35px;
+  width: 35px;
+}
+
+/* Reactions */
+.reaction-3vwAF2,
+.role-2TIOKu,
+.role-1adzi2,
+.role-23oyrw,
+.akaBadge-3i7V3p {
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  border: 1px solid #00000065;
+}
+.reaction-3vwAF2.reactionMe-1PwQAc {
+  background: linear-gradient(rgb(55, 68, 94), rgb(0, 48, 145));
+  border: 1px solid #000000;
+}
+
+/* Reply Bartender */
+.container-A2jo65 {
+  font-weight: 700;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+  left: 15px;
+}
+
+/* Reply Media icon */
+.repliedTextContentIcon-1LQXRB {
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+}
+
+/* New Messages Bartender */
+.newMessagesBar-1hF-9G {
+  border-radius: 3px;
+  padding: 3px 5px 1.5px;
+  font-weight: 700;
+  background: linear-gradient(
+    to bottom,
+    rgb(227, 145, 145) 0%,
+    rgba(196, 25, 25, 0.705) 50%,
+    rgba(227, 145, 145, 0.397) 100%
+  );
+  border: 1px solid #000000;
+  color: rgb(255, 255, 255);
+}
+
+.theme-dark .elevationHigh-28Pty4 {
+  background: linear-gradient(
+    to bottom,
+    rgb(227, 145, 145) 0%,
+    rgba(196, 25, 25, 0.705) 50%,
+    rgba(227, 145, 145, 0.397) 100%
+  );
+}
+
+/* Older Messages Bartender */
+.jumpToPresentBar-1cEnH0 {
+  font-weight: 700;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  border: 1px solid #00000065;
+  left: 15px;
+}
+
+/* Message options */
+.scroller-1bVxF5 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+  color: rgb(255, 255, 255);
+}
+.icon-E4cW1l,
+.iconContainer-1-SsTR {
+  color: white;
+}
+.optionName-1ebPjH,
+.optionIcon-1Ft8w0 {
+  color: rgb(255, 255, 255);
+}
+.label-2gNW3x {
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 2px #00000000;
+}
+.wrapper-2vIMkT {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  color: rgb(0, 0, 0);
+}
+.icon-1zidb7 {
+  color: black;
+}
+
+/* Markup */
+.markup-eYLPri code {
+  background: linear-gradient(rgb(31, 31, 34), rgb(56, 58, 65));
+  border: 1px solid var(--background-tertiary);
+}
+
+/* Invites */
+.wrapper-1HIH0j {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 0.2px solid #000000;
+}
+
+/* Audio embeds */
+.theme-dark .wrapperAudio-1Bzv_Z {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+}
+
+/* File embed */
+.attachment-1PZZB2 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+}
+
+/* The listening party is over */
+.theme-dark .invite-3uuHYQ {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+}
+
+/* Invalid poop */
+.invalidPoop--w1123 {
+  border: 1px solid #00000065;
+  border-radius: 3px;
+}
+
+/*
+/////////////////////////
+////USER MODE BANNERS
+/////////////////////////
+*/
+
+/* Preview mode */
+.notice-12Koq- {
+  background: linear-gradient(
+    to bottom,
+    rgba(227, 145, 145, 0.363) 0%,
+    hsl(227, 31%, 44%) 50%,
+    rgb(112, 131, 197) 100%
+  );
+  background-color: #4e5d94;
+}
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ,
+.colorable-3rVGna.green-3wkLbx,
+.colorable-3rVGna.green-3wkLbx,
+.colorable-3rVGna.green-3wkLbx.active-3D763s {
+  background: linear-gradient(
+    to bottom,
+    rgba(180, 227, 145, 1) 0%,
+    rgba(97, 196, 25, 1) 50%,
+    rgba(180, 227, 145, 1) 100%
+  );
+  border-color: rgba(0, 0, 0, 0.363);
+}
+
+/* Streamer mode & Nitro Management Tab*/
+.colorStreamerMode-8uoRWd,
+.subscriptionsRedirectContainer-zD3U79 {
+  background: linear-gradient(
+    to bottom,
+    rgba(227, 145, 145, 0.363) 0%,
+    hsl(305, 31%, 44%) 50%,
+    rgb(197, 112, 179) 100%
+  );
+  background-color: #924e94;
+}
+.theme-dark .button-1iHNQ2,
+.theme-light .button-1iHNQ2 {
+  background: linear-gradient(to bottom, rgb(222, 233, 213) 0%, rgb(196, 25, 34) 50%, rgb(227, 145, 163) 100%);
+  border-color: rgba(0, 0, 0, 0.363);
+}
+/* Success banner */
+.colorSuccess-2js6tw {
+  background: linear-gradient(
+    to bottom,
+    rgba(180, 227, 145, 1) 0%,
+    rgba(97, 196, 25, 1) 50%,
+    rgba(180, 227, 145, 1) 100%
+  );
+  border-color: rgba(0, 0, 0, 0.363);
+}
+
+/* Server "Complete these steps" Banner */
+.wrapper-2SplAX,
+.notice-1x8lm-,
+.notice-5OG6bf {
+  background: linear-gradient(to bottom, rgb(146, 145, 227) 0%, hsl(227, 31%, 44%) 50%, rgb(112, 131, 197) 100%);
+  box-shadow: 0 0 5px 5px #4189c38c;
+}
+.lookOutlined-3yKVGo.colorWhite-1H92hK,
+.lookFilled-yCfaCM.colorPrimary-2AuQVo {
+  background: linear-gradient(
+    to bottom,
+    rgba(180, 227, 145, 1) 0%,
+    rgba(97, 196, 25, 1) 50%,
+    rgba(180, 227, 145, 1) 100%
+  );
+}
+.lookOutlined-3yKVGo.colorWhite-1H92hK:hover,
+.lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
+  background: linear-gradient(to bottom, rgb(22, 51, 0) 0%, rgb(33, 77, 2) 50%, rgb(42, 92, 4) 100%);
+  box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
+}
+
+/* Verify banner */
+.lookFilled-yCfaCM.colorRed-rQXKgM {
+  color: #fff;
+  background: linear-gradient(
+    to bottom,
+    rgb(227, 145, 145) 0%,
+    rgba(196, 25, 25, 0.705) 50%,
+    rgba(227, 145, 145, 0.397) 100%
+  );
+}

@@ -1,0 +1,133 @@
+/* Logo */
+.childWrapper-1j_1ub {
+	background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%, rgb(51, 51, 51) 50%, rgb(161, 161, 161) 100%);
+}
+
+/* Servers */
+.scroller-3X7KbA {
+	font-weight: 700;
+	background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
+	border: 1px solid #00000065;
+}
+.item-2LIpTv {
+	width: 5px;
+	border-radius: 0%;
+	left: 5px;
+	border: 1px solid #000000;
+	background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+}
+.mention-3XBnnZ {
+	border-radius: 3px;
+	font-weight: 700;
+	background: linear-gradient(
+		to bottom,
+		rgb(227, 145, 145) 0%,
+		rgba(196, 25, 25, 0.705) 50%,
+		rgba(227, 145, 145, 0.397) 100%
+	);
+	border: 1px solid #000000;
+	color: rgb(255, 255, 255);
+}
+.svg-2zuE5p:hover {
+	box-shadow: 0 0 5px 5px #4189c38c;
+	border-radius: 30%;
+}
+
+/* Server Folders */
+.closedFolderIconWrapper-2sTcE6 {
+	border-radius: 1px;
+}
+.childWrapper-1j_1ub,
+.wrapper-3kah-n {
+	border-radius: 1px;
+}
+
+/* Server folder custom icons /// LeafyLuigi /// WIP */
+.expandedFolderBackground-1kSAf6 {
+	background: transparent;
+}
+.folder-241Joy,
+.folder-241Joy.hover-3m7-WT {
+	background: transparent;
+}
+.wrapperSimple-Js2rIO {
+	border-radius: unset;
+	overflow: unset;
+}
+.wrapper-38slSD .listItem-3SmSlK {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
+}
+.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ .listItem-3SmSlK {
+	background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
+}
+.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ ul > .listItem-3SmSlK {
+	background-image: none;
+}
+.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ ul > .listItem-3SmSlK:last-child {
+	background-image: none;
+}
+.expandedFolderBackground-1kSAf6 {
+	background-repeat: repeat-y;
+	background-size: contain;
+	background-image: none;
+}
+.wrapper-3kah-n .childWrapper-1j_1ub {
+	transition: background-color 0.1s ease-out, color 0.1s ease-out, border-radius 0.1s ease-out;
+}
+.wrapper-3kah-n.selected-1Drb7Z .icon-3AqZ2e,
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
+.wrapper-3kah-n:hover .icon-3AqZ2e,
+.wrapper-3kah-n:hover .childWrapper-1j_1ub,
+.circleIconButton-1VxDrg.selected-2r1Hvo {
+	border-radius: 33%;
+}
+.wrapper-3kah-n .icon-3AqZ2e,
+.wrapper-3kah-n .childWrapper-1j_1ub {
+	border-radius: 50%;
+	transition: border-radius 0.1s;
+}
+.circleIconButton-1VxDrg {
+	border-radius: 50%;
+	transition: color 0.15s ease-out, background-color 0.15s ease-out, border-radius 0.15s;
+}
+
+/* Channel Names ---- enable by fixing name */
+.mainContent-u_9 PKf:before {
+	border-radius: 0px;
+	border-width: px;
+	border: 1px solid #00000065;
+	background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+}
+
+/* People List */
+.peopleList-2VBrVI {
+	padding-bottom: 8px;
+	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
+}
+.nowPlayingScroller-12BxFW {
+	background: transparent;
+}
+.nowPlayingColumn-1eCBCN {
+	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
+}
+.peopleColumn-1wMU14 {
+	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
+	border: 1px solid #00000065;
+}
+.itemCard-3Etziu {
+	font-weight: 700;
+	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
+	border: 1px solid #00000065;
+}
+.section-3G9aLW {
+	font-weight: 700;
+	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
+	border: 1px solid #00000065;
+}
+
+.container-1oAagU {
+	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
+}
