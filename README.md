@@ -17,7 +17,8 @@
 * Stylus
   * Head [here](https://github.com/SlippingGitty/SlideToUnlock/raw/main/SlideToUnlock.user.css) to install.
 
-## Bleeding Branch 🩸
+<details>
+<summary>Bleeding Branch 🩸</summary>
 
 **You can switch to an unstable, semi-constantly updating version of this theme by doing either of the following:**
 
@@ -29,6 +30,7 @@
 * Find `@import url("");`, and replace the URL with `https://slippinggitty.github.io/SlidetoUnlockBleeding.css`
 
 I would very much prefer you use this if you'd like to help out, but hey, do as you please. c:
+</details>
 
 
 ## Contributors ✍️
