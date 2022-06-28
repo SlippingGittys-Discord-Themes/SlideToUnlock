@@ -1,8 +1,8 @@
 {
     "name": "SlideToUnlock",
-    "version": "2022.05.24",
+    "version": "07.2022",
     "license": "MIT",
-    "theme": "SlideToUnlock.theme.css",
+    "theme": "./src/_index.scss",
     "author": "Vozy",
     "description": "A Discord Theme inspired by Skeuomorphism."
 }
