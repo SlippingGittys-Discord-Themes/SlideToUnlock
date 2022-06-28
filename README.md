@@ -18,18 +18,12 @@
   * Head [here](https://github.com/SlippingGitty/SlideToUnlock/raw/main/SlideToUnlock.user.css) to install.
 
 <details>
-<summary>Bleeding Branch 🩸</summary>
+<summary>Screenshots 🖼️</summary>
 
-**You can switch to an unstable, semi-constantly updating version of this theme by doing either of the following:**
+![image](https://user-images.githubusercontent.com/76500838/176284079-ddf2ea30-d4e4-4a42-b974-f4cf60dacde5.png)
 
-#### Powercord
-* Open a terminal in the themes folder and type `git clone -b dev https://github.com/SlippingGitty/SlideToUnlock.git`
+![image](https://user-images.githubusercontent.com/76500838/176284231-79dbe99d-f487-4b8f-9745-5ed8fb5383e2.png)
 
-#### BetterDiscord
-* Locate **SlidetoUnlock.theme.css**, and open it in your prefered text editor
-* Find `@import url("");`, and replace the URL with `https://slippinggitty.github.io/SlidetoUnlockBleeding.css`
-
-I would very much prefer you use this if you'd like to help out, but hey, do as you please. c:
 </details>
 
 
