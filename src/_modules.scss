@@ -1,0 +1,76 @@
+/*
+////////////////////
+////MODULES
+////////////////////
+*/
+
+/* LUCKFIRE - THEME NOTICES - NOTIFICATION - https://github.com/discord-theme-tools/theme-notices/blob/main/LICENSE */
+.theme-light #app-mount::after {
+  z-index: 101;
+  position: absolute;
+  content: "For this theme to work properly, you have to enable Dark Mode. \a\aTo enable it, head over to Settings -> Appearance.";
+  white-space: pre-wrap;
+  font-weight: 500;
+  line-height: 21px;
+  right: 10px;
+  bottom: 10px;
+  padding: 15px 15px 15px 100px;
+  width: 299px;
+  max-width: 299px;
+  min-height: 75px;
+  border-radius: 4px;
+  border-left: 4px solid var(--info-danger-foreground);
+  box-shadow: var(--elevation-high);
+  color: var(--text-normal);
+  background-color: var(--background-floating);
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjgiIGhlaWdodD0iNjgiIHZpZXdCb3g9IjAgMCA2OCA2OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM0IDQxLjc5MTdDMzIuODM4MyA0MS43OTE3IDMxLjg3NSA0MC44MjgzIDMxLjg3NSAzOS42NjY3VjI1LjVDMzEuODc1IDI0LjMzODMgMzIuODM4MyAyMy4zNzUgMzQgMjMuMzc1QzM1LjE2MTcgMjMuMzc1IDM2LjEyNSAyNC4zMzgzIDM2LjEyNSAyNS41VjM5LjY2NjdDMzYuMTI1IDQwLjgyODMgMzUuMTYxNyA0MS43OTE3IDM0IDQxLjc5MTdaIiBmaWxsPSIjRUQ0MjQ1Ii8+CjxwYXRoIGQ9Ik0zNC4wMDAxIDUxLjAwMDJDMzMuODMwMSA1MS4wMDAyIDMzLjYzMTcgNTAuOTcxOCAzMy40MzM0IDUwLjk0MzVDMzMuMjYzNCA1MC45MTUyIDMzLjA5MzQgNTAuODU4NSAzMi45MjM0IDUwLjc3MzVDMzIuNzUzNCA1MC43MTY4IDMyLjU4MzQgNTAuNjMxOCAzMi40MTM0IDUwLjUxODVDMzIuMjcxNyA1MC40MDUyIDMyLjEzMDEgNTAuMjkxOCAzMS45ODg0IDUwLjE3ODVDMzEuNDc4NCA0OS42NDAyIDMxLjE2NjcgNDguOTAzNSAzMS4xNjY3IDQ4LjE2NjhDMzEuMTY2NyA0Ny40MzAyIDMxLjQ3ODQgNDYuNjkzNSAzMS45ODg0IDQ2LjE1NTJDMzIuMTMwMSA0Ni4wNDE4IDMyLjI3MTcgNDUuOTI4NSAzMi40MTM0IDQ1LjgxNTJDMzIuNTgzNCA0NS43MDE4IDMyLjc1MzQgNDUuNjE2OCAzMi45MjM0IDQ1LjU2MDJDMzMuMDkzNCA0NS40NzUyIDMzLjI2MzQgNDUuNDE4NSAzMy40MzM0IDQ1LjM5MDJDMzMuODAxNyA0NS4zMDUyIDM0LjE5ODQgNDUuMzA1MiAzNC41Mzg0IDQ1LjM5MDJDMzQuNzM2NyA0NS40MTg1IDM0LjkwNjcgNDUuNDc1MiAzNS4wNzY3IDQ1LjU2MDJDMzUuMjQ2NyA0NS42MTY4IDM1LjQxNjcgNDUuNzAxOCAzNS41ODY3IDQ1LjgxNTJDMzUuNzI4NCA0NS45Mjg1IDM1Ljg3MDEgNDYuMDQxOCAzNi4wMTE3IDQ2LjE1NTJDMzYuNTIxNyA0Ni42OTM1IDM2LjgzMzQgNDcuNDMwMiAzNi44MzM0IDQ4LjE2NjhDMzYuODMzNCA0OC45MDM1IDM2LjUyMTcgNDkuNjQwMiAzNi4wMTE3IDUwLjE3ODVDMzUuODcwMSA1MC4yOTE4IDM1LjcyODQgNTAuNDA1MiAzNS41ODY3IDUwLjUxODVDMzUuNDE2NyA1MC42MzE4IDM1LjI0NjcgNTAuNzE2OCAzNS4wNzY3IDUwLjc3MzVDMzQuOTA2NyA1MC44NTg1IDM0LjczNjcgNTAuOTE1MiAzNC41Mzg0IDUwLjk0MzVDMzQuMzY4NCA1MC45NzE4IDM0LjE3MDEgNTEuMDAwMiAzNC4wMDAxIDUxLjAwMDJaIiBmaWxsPSIjRUQ0MjQ1Ii8+CjxwYXRoIGQ9Ik01MS4xNjk5IDYyLjc4NjZIMTYuODI5OUMxMS4zMDQ5IDYyLjc4NjYgNy4wODMyNiA2MC43NzQ5IDQuOTI5OTMgNTcuMTQ4M0MyLjgwNDkzIDUzLjUyMTYgMy4wODgyNiA0OC44NDY2IDUuNzc5OTMgNDQuMDAxNkwyMi45NDk5IDEzLjExODNDMjUuNzgzMyA4LjAxODI2IDI5LjY5MzMgNS4yMTMyNiAzMy45OTk5IDUuMjEzMjZDMzguMzA2NiA1LjIxMzI2IDQyLjIxNjYgOC4wMTgyNiA0NS4wNDk5IDEzLjExODNMNjIuMjE5OSA0NC4wMjk5QzY0LjkxMTYgNDguODc0OSA2NS4yMjMzIDUzLjUyMTYgNjMuMDY5OSA1Ny4xNzY2QzYwLjkxNjYgNjAuNzc0OSA1Ni42OTQ5IDYyLjc4NjYgNTEuMTY5OSA2Mi43ODY2Wk0zMy45OTk5IDkuNDYzMjZDMzEuMzM2NiA5LjQ2MzI2IDI4LjcyOTkgMTEuNTAzMyAyNi42NjE2IDE1LjE4NjZMOS41MTk5MyA0Ni4wOTgzQzcuNTkzMjYgNDkuNTU0OSA3LjI4MTYgNTIuNzI4MyA4LjYxMzI3IDU1LjAyMzNDOS45NDQ5MyA1Ny4zMTgzIDEyLjg5MTYgNTguNTY0OSAxNi44NTgzIDU4LjU2NDlINTEuMTk4M0M1NS4xNjQ5IDU4LjU2NDkgNTguMDgzMyA1Ny4zMTgzIDU5LjQ0MzMgNTUuMDIzM0M2MC44MDMzIDUyLjcyODMgNjAuNDYzMyA0OS41ODMzIDU4LjUzNjYgNDYuMDk4M0w0MS4zMzgzIDE1LjE4NjZDMzkuMjY5OSAxMS41MDMzIDM2LjY2MzMgOS40NjMyNiAzMy45OTk5IDkuNDYzMjZaIiBmaWxsPSIjRUQ0MjQ1Ii8+Cjwvc3ZnPgo=);
+  background-repeat: no-repeat;
+  background-position: 16px center;
+}
+
+/* Checkboxes - Slate Theme - Tropical */
+#app-mount .container-2nx-BQ .input-2XRLou,
+#app-mount .container-2nx-BQ .input-3xr72x,
+#app-mount .checkboxWrapper-2fDzaA .input-2XRLou,
+#app-mount .checkboxWrapper-2fDzaA .input-3xr72x {
+  margin: 0;
+  opacity: 1;
+  height: 14px;
+  width: 14px;
+  position: relative;
+  cursor: var(--cursor);
+  -webkit-appearance: checkbox;
+  appearance: checkbox;
+}
+#app-mount .container-2nx-BQ,
+#app-mount .checkboxWrapper-2fDzaA {
+  width: auto;
+  border-radius: 0;
+  background: transparent !important;
+  display: flex;
+  align-items: center;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  cursor: var(--cursor);
+}
+#app-mount .container-2nx-BQ .slider-32CRPX,
+#app-mount .checkboxWrapper-2fDzaA .slider-32CRPX {
+  display: none;
+}
+.theme-dark .checkbox-f1HnKB {
+  display: none;
+}
+
+/* Force Font Helvetica*/
+* {
+  font-family: Helvetica, sans-serif !important;
+  text-rendering: optimizeLegibility !important;
+  text-shadow: 2px 2px 2px #00000052 !important;
+  text-transform: none;
+}
+
+/* Scroll Bar */
+.theme-dark {
+  --scrollbar-auto-thumb: #00000060;
+  --scrollbar-auto-track: #2e333800;
+}

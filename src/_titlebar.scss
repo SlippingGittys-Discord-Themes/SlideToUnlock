@@ -1,0 +1,42 @@
+/*
+///////////////
+///TOP BAR
+///////////////
+*/
+
+/* Wndows Title Bar */
+.winButton-3UMjdg .withFrame-2dL45i {
+  height: 18px;
+  margin-top: 0px;
+  margin-bottom: 2px;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+}
+.winButton-3UMjdg .titleBar-1it3bQ {
+  margin-top: 1px;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+}
+.winButton-3UMjdg {
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  color: rgb(255, 255, 255);
+  margin-bottom: -1px;
+  border: 0.5px solid #00000065;
+}
+
+/* macOS Title Bar */
+.typeMacOS-3V4xXE {
+  position: relative;
+  width: 100%;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  border-bottom: 1px solid rgba(0, 0, 0, 0.596);
+  height: 35px;
+}
+.platform-osx .scroller-3X7KbA {
+  padding-top: 16px;
+}
+.platform-osx .layer-86YKbF.baseLayer-W6S8cY {
+  background-color: rgb(32, 34, 37);
+}
+.platform-osx .wrapper-1_HaEi {
+  margin: 0;
+  padding: 0;
+}

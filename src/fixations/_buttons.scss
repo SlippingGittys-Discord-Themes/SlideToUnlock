@@ -1,0 +1,164 @@
+/*
+//////////////
+///BUTTONS
+//////////////
+*/
+
+/* Server Buttons */
+.circleIconButton-1VxDrg,
+.lookOutlined-3yKVGo.colorGreen-3y-Z79 {
+  padding: 6px 10px 5px;
+  font-weight: 700;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  color: rgb(0, 0, 0);
+  box-shadow: 2px 2px 2px #00000036;
+}
+.actionButton-3-B2x-:first-child,
+.actionButton-3-B2x- {
+  font-weight: 700;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  color: rgb(0, 0, 0);
+  box-shadow: 2px 2px 2px #00000036;
+}
+.actionButton-3-B2x-:first-child:hover,
+.actionButton-3-B2x-:hover {
+  background: linear-gradient(to bottom, rgb(163, 163, 163) 0%, rgb(131, 131, 131) 50%, rgb(70, 70, 70) 100%);
+}
+
+/* Most Buttons */
+.side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
+.topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
+.tabBar-ra-EuL .item-3mHhwr {
+  border-radius: 3px;
+  padding: 6px 10px 5px;
+  font-weight: 700;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  border: 1px solid #000000;
+  color: rgb(0, 0, 0) !important;
+}
+.theme-dark .tab-2j5AEF.selected-2LAck8 {
+  font-weight: 700;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  color: rgb(0, 0, 0);
+  box-shadow: 2px 2px 2px #00000036;
+}
+.unread-2wipsx,
+.iconBadge-3Mmg92 {
+  border-radius: 3px;
+  padding: 3px 5px 1.5px;
+  font-weight: 700;
+  background: linear-gradient(
+    to bottom,
+    rgb(227, 145, 145) 0%,
+    rgba(196, 25, 25, 0.705) 50%,
+    rgba(227, 145, 145, 0.397) 100%
+  );
+  border: 1px solid #000000;
+  color: rgb(255, 255, 255);
+}
+.lookFilled-yCfaCM.colorGreen-3y-Z79 {
+  background: linear-gradient(
+    to bottom,
+    rgba(180, 227, 145, 1) 0%,
+    rgba(97, 196, 25, 1) 50%,
+    rgba(180, 227, 145, 1) 100%
+  );
+}
+.lookFilled-yCfaCM.colorGreen-3y-Z79:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+  background: linear-gradient(to bottom, rgba(180, 227, 145, 1) 0%, rgb(60, 129, 11) 50%, rgb(49, 114, 0) 100%);
+  transition: 0.3s;
+}
+.unicodeShortcut-3N8oDe {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+.icon-3AqZ2e:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+
+/* Selected Button */
+.selected-1-Z6gm .layout-1qmrhw {
+  font-weight: 700;
+  background: linear-gradient(rgb(143, 143, 143), rgb(83, 83, 83));
+  border: 1px solid #000000;
+}
+
+/* Gif/Emoji/Sticker buttons */
+.navButtonActive-1EqC5l:hover,
+.navButtonActive-1EqC5l {
+  border-radius: 3px;
+  padding: 3px 5px 1.5px;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  border: 1px solid #000000;
+  color: rgb(0, 0, 0);
+}
+.button-3bklZh {
+  color: rgb(0, 0, 0);
+}
+.theme-dark .root-g14mjS,
+.inspector-DFKXwB,
+.standardStickerShortcut-ObSns3 {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+.container-1zzFcN,
+.scroller-2MALzE {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+}
+
+/* View in Store */
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+  border-radius: 3px;
+  padding: 3px 5px 1.5px;
+  font-weight: 700;
+  background: linear-gradient(
+    to bottom,
+    rgba(180, 227, 145, 1) 0%,
+    rgba(97, 196, 25, 1) 50%,
+    rgba(180, 227, 145, 1) 100%
+  );
+  border: 1px solid #000000;
+  color: rgb(255, 255, 255);
+}
+
+/* Unread Badge */
+.numberBadge-37OJ3S,
+.newBadge-1bHewI {
+  background: linear-gradient(
+    to bottom,
+    rgb(227, 145, 145) 0%,
+    rgba(196, 25, 25, 0.705) 50%,
+    rgba(227, 145, 145, 0.397) 100%
+  );
+}
+
+/* User Volume */
+.mini-2qY9iv .grabber-2GQyvM {
+  background-image: -webkit-radial-gradient( 50% 0%, 8% 50%, hsla(0,0%,100%,.5) 0%, hsla(0,0%,100%,0) 100%),
+    -webkit-radial-gradient( 50% 100%, 12% 50%, hsla(0,0%,100%,.6) 0%, hsla(0,0%,100%,0) 100%),
+    -webkit-radial-gradient( 0% 50%, 50% 7%, hsla(0,0%,100%,.5) 0%, hsla(0,0%,100%,0) 100%),
+    -webkit-radial-gradient( 100% 50%, 50% 5%, hsla(0,0%,100%,.5) 0%, hsla(0,0%,100%,0) 100%),
+    -webkit-repeating-radial-gradient( 50% 50%, 100% 100%, hsla(0,0%, 0%,0) 0%, hsla(0,0%, 0%,0) 3%, hsla(0,0%, 0%,.1) 3.5%),
+    -webkit-repeating-radial-gradient( 50% 50%, 100% 100%, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0) 6%, hsla(0,0%,100%,.1) 7.5%),
+    -webkit-repeating-radial-gradient( 50% 50%, 100% 100%, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0) 1.2%, hsla(0,0%,100%,.2) 2.2%),
+    -webkit-radial-gradient( 50% 50%, 200% 50%, hsla(0,0%,90%,1) 5%, hsla(0,0%,85%,1) 30%, hsla(0,0%,60%,1) 100%);
+    border: 1px solid black;
+  border-radius: 50px 50px;
+}
+
+.barFill-2Bh7CX {
+  background-image: -webkit-repeating-linear-gradient(left, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0)   6%, hsla(0,0%,100%, .1) 7.5%),
+    -webkit-repeating-linear-gradient(left, hsla(0,0%,  0%,0) 0%, hsla(0,0%,  0%,0)   4%, hsla(0,0%,  0%,.03) 4.5%),
+    -webkit-repeating-linear-gradient(left, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0) 1.2%, hsla(0,0%,100%,.15) 2.2%),
+    
+    linear-gradient(180deg, hsl(0,0%,78%)  0%, 
+    hsl(0,0%,90%) 47%, 
+    hsl(0,0%,78%) 53%,
+    hsl(0,0%,70%)100%);
+  border-radius: 1px 1px;
+}
+
+.theme-dark .bar-1Bhnl9 {
+    background: #262626;
+    border: 1px solid black;
+  border-radius: 5px 5px;
+}
