@@ -39,4 +39,4 @@ ___
 * https://github.com/XYZenix/DTM-08
 
 ___
-support server 💬: https://discord.gg/xWYMgbD28p
+#### Support Server : https://discord.gg/na2GdxtD
