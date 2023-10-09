@@ -28,15 +28,11 @@
 
 
 ## Contributors ✍️
+See [this](https://github.com/SlippingGittys-Discord-Themes/SlideToUnlock/graphs/contributors)
 
-| <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/LeafyLuigi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/13402990?v=4" alt="" width="96px" height="96px"> </a> |
-|:-:|:-:|
-| SlippingGitty | LeafyLuigi |
 ___
 **Notice: Are you looking for similar themes? Check these out! 📸**
 
 * https://github.com/Marda33/SkeuoCord
 * https://github.com/XYZenix/DTM-08
 
-___
-#### Support Server : https://discord.gg/na2GdxtD
