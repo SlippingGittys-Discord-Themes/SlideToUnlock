@@ -1,22 +1,22 @@
 /* Logo */
-.childWrapper-1j_1ub {
+.childWrapper__01b9c {
 	background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%, rgb(51, 51, 51) 50%, rgb(161, 161, 161) 100%);
 }
 
 /* Servers */
-.scroller-3X7KbA {
+.scroller__3d071 {
 	font-weight: 700;
 	background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
 	border: 1px solid #00000065;
 }
-.item-2LIpTv {
+.item_f9d377 {
 	width: 5px;
 	border-radius: 0%;
 	left: 5px;
 	border: 1px solid #000000;
 	background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
 }
-.mention-3XBnnZ {
+.mention__1afd3 {
 	border-radius: 3px;
 	font-weight: 700;
 	background: linear-gradient(
@@ -37,59 +37,59 @@
 .closedFolderIconWrapper-2sTcE6 {
 	border-radius: 1px;
 }
-.childWrapper-1j_1ub,
-.wrapper-3kah-n {
+.childWrapper__01b9c,
+.wrapper_d281dd {
 	border-radius: 1px;
 }
 
 /* Server folder custom icons /// LeafyLuigi /// WIP */
-.expandedFolderBackground-1kSAf6 {
+.expandedFolderBackground__1bec6 {
 	background: transparent;
 }
-.folder-241Joy,
-.folder-241Joy.hover-3m7-WT {
+.folder__17546,
+.folder__17546.hover__043de {
 	background: transparent;
 }
 .wrapperSimple-Js2rIO {
 	border-radius: unset;
 	overflow: unset;
 }
-.wrapper-38slSD .listItem-3SmSlK {
+.wrapper_ed1dea .listItem_fa7b36 {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
 	background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
 }
-.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ .listItem-3SmSlK {
+.wrapper_ed1dea > .expandedFolderBackground__1bec6:not(.collapsed__0a270) ~ .listItem_fa7b36 {
 	background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
 }
-.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ ul > .listItem-3SmSlK {
+.wrapper_ed1dea > .expandedFolderBackground__1bec6:not(.collapsed__0a270) ~ ul > .listItem_fa7b36 {
 	background-image: none;
 }
-.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ ul > .listItem-3SmSlK:last-child {
+.wrapper_ed1dea > .expandedFolderBackground__1bec6:not(.collapsed__0a270) ~ ul > .listItem_fa7b36:last-child {
 	background-image: none;
 }
-.expandedFolderBackground-1kSAf6 {
+.expandedFolderBackground__1bec6 {
 	background-repeat: repeat-y;
 	background-size: contain;
 	background-image: none;
 }
-.wrapper-3kah-n .childWrapper-1j_1ub {
+.wrapper_d281dd .childWrapper__01b9c {
 	transition: background-color 0.1s ease-out, color 0.1s ease-out, border-radius 0.1s ease-out;
 }
-.wrapper-3kah-n.selected-1Drb7Z .icon-3AqZ2e,
-.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
-.wrapper-3kah-n:hover .icon-3AqZ2e,
-.wrapper-3kah-n:hover .childWrapper-1j_1ub,
-.circleIconButton-1VxDrg.selected-2r1Hvo {
+.wrapper_d281dd.selected_f5ec8e .icon__0cbed,
+.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c,
+.wrapper_d281dd:hover .icon__0cbed,
+.wrapper_d281dd:hover .childWrapper__01b9c,
+.circleIconButton_d8df29.selected__5250e {
 	border-radius: 33%;
 }
-.wrapper-3kah-n .icon-3AqZ2e,
-.wrapper-3kah-n .childWrapper-1j_1ub {
+.wrapper_d281dd .icon__0cbed,
+.wrapper_d281dd .childWrapper__01b9c {
 	border-radius: 50%;
 	transition: border-radius 0.1s;
 }
-.circleIconButton-1VxDrg {
+.circleIconButton_d8df29 {
 	border-radius: 50%;
 	transition: color 0.15s ease-out, background-color 0.15s ease-out, border-radius 0.15s;
 }
@@ -103,31 +103,31 @@
 }
 
 /* People List */
-.peopleList-2VBrVI {
+.peopleList__2379e {
 	padding-bottom: 8px;
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 }
-.nowPlayingScroller-12BxFW {
+.nowPlayingScroller_dce5c0 {
 	background: transparent;
 }
-.nowPlayingColumn-1eCBCN {
+.nowPlayingColumn_f5023f {
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 }
-.peopleColumn-1wMU14 {
+.peopleColumn__51df3 {
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 	border: 1px solid #00000065;
 }
-.itemCard-3Etziu {
+.itemCard__1f162 {
 	font-weight: 700;
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 	border: 1px solid #00000065;
 }
-.section-3G9aLW {
+.section_efc22d {
 	font-weight: 700;
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 	border: 1px solid #00000065;
 }
 
-.container-1oAagU {
+.container__0a6a9 {
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 }
