@@ -1,10 +1,10 @@
 /* Logo */
-.childWrapper__01b9c {
+.childWrapper_a6ce15 {
 	background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%, rgb(51, 51, 51) 50%, rgb(161, 161, 161) 100%);
 }
 
 /* Servers */
-.scroller__3d071 {
+.scroller_de945b {
 	font-weight: 700;
 	background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
 	border: 1px solid #00000065;
@@ -16,7 +16,7 @@
 	border: 1px solid #000000;
 	background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
 }
-.mention__1afd3 {
+.mention_dd733a {
 	border-radius: 3px;
 	font-weight: 700;
 	background: linear-gradient(
@@ -37,13 +37,13 @@
 .closedFolderIconWrapper-2sTcE6 {
 	border-radius: 1px;
 }
-.childWrapper__01b9c,
-.wrapper_d281dd {
+.childWrapper_a6ce15,
+.wrapper__8436d {
 	border-radius: 1px;
 }
 
 /* Server folder custom icons /// LeafyLuigi /// WIP */
-.expandedFolderBackground__1bec6 {
+.expandedFolderBackground_b1385f {
 	background: transparent;
 }
 .folder__17546,
@@ -54,42 +54,42 @@
 	border-radius: unset;
 	overflow: unset;
 }
-.wrapper_ed1dea .listItem_fa7b36 {
+.wrapper__832f2 .listItem__48528 {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
 	background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
 }
-.wrapper_ed1dea > .expandedFolderBackground__1bec6:not(.collapsed__0a270) ~ .listItem_fa7b36 {
+.wrapper__832f2 > .expandedFolderBackground_b1385f:not(.collapsed__98ad5) ~ .listItem__48528 {
 	background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
 }
-.wrapper_ed1dea > .expandedFolderBackground__1bec6:not(.collapsed__0a270) ~ ul > .listItem_fa7b36 {
+.wrapper__832f2 > .expandedFolderBackground_b1385f:not(.collapsed__98ad5) ~ ul > .listItem__48528 {
 	background-image: none;
 }
-.wrapper_ed1dea > .expandedFolderBackground__1bec6:not(.collapsed__0a270) ~ ul > .listItem_fa7b36:last-child {
+.wrapper__832f2 > .expandedFolderBackground_b1385f:not(.collapsed__98ad5) ~ ul > .listItem__48528:last-child {
 	background-image: none;
 }
-.expandedFolderBackground__1bec6 {
+.expandedFolderBackground_b1385f {
 	background-repeat: repeat-y;
 	background-size: contain;
 	background-image: none;
 }
-.wrapper_d281dd .childWrapper__01b9c {
+.wrapper__8436d .childWrapper_a6ce15 {
 	transition: background-color 0.1s ease-out, color 0.1s ease-out, border-radius 0.1s ease-out;
 }
-.wrapper_d281dd.selected_f5ec8e .icon__0cbed,
-.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c,
-.wrapper_d281dd:hover .icon__0cbed,
-.wrapper_d281dd:hover .childWrapper__01b9c,
-.circleIconButton_d8df29.selected__5250e {
+.wrapper__8436d.selected_ae80f7 .icon__11cf1,
+.wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15,
+.wrapper__8436d:hover .icon__11cf1,
+.wrapper__8436d:hover .childWrapper_a6ce15,
+.circleIconButton__05cf2.selected_aded59 {
 	border-radius: 33%;
 }
-.wrapper_d281dd .icon__0cbed,
-.wrapper_d281dd .childWrapper__01b9c {
+.wrapper__8436d .icon__11cf1,
+.wrapper__8436d .childWrapper_a6ce15 {
 	border-radius: 50%;
 	transition: border-radius 0.1s;
 }
-.circleIconButton_d8df29 {
+.circleIconButton__05cf2 {
 	border-radius: 50%;
 	transition: color 0.15s ease-out, background-color 0.15s ease-out, border-radius 0.15s;
 }
@@ -103,31 +103,31 @@
 }
 
 /* People List */
-.peopleList__2379e {
+.peopleList_d2f527 {
 	padding-bottom: 8px;
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 }
-.nowPlayingScroller_dce5c0 {
+.nowPlayingScroller__5cd67 {
 	background: transparent;
 }
-.nowPlayingColumn_f5023f {
+.nowPlayingColumn_b025fe {
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 }
-.peopleColumn__51df3 {
+.peopleColumn__0c784 {
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 	border: 1px solid #00000065;
 }
-.itemCard__1f162 {
+.itemCard_b64118 {
 	font-weight: 700;
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 	border: 1px solid #00000065;
 }
-.section_efc22d {
+.section__253ec {
 	font-weight: 700;
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 	border: 1px solid #00000065;
 }
 
-.container__0a6a9 {
+.container__3673d {
 	background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75));
 }
