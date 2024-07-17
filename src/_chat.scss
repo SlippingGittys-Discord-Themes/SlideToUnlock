@@ -5,16 +5,16 @@
 */
 
 /* Text Box */
-.scrollableContainer_ff917f,
-.hasConnectedBar__7d21e {
+.scrollableContainer_d0696b,
+.hasConnectedBar_d0696b {
   background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68));
   border: 1px solid #00000065;
   box-shadow: 0 0 10px 3px #0000008c;
 }
-.scrollableContainer_ff917f:hover {
+.scrollableContainer_d0696b:hover {
   box-shadow: 0 0 2px 3px #4189c38c;
 }
-.root__3eef0 {
+.root_dd069c {
   background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
 }
 
@@ -29,28 +29,28 @@
 }
 
 /* Replying Bar */
-.replyBar_ed6afc {
+.replyBar_b11c5e {
   background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%, rgb(51, 51, 51) 50%, rgb(161, 161, 161) 100%);
   border: 1px solid #00000065;
   border-radius: 3px;
 }
 
 /* Chat */
-.chatContent_f087cb {
+.chatContent_a7d72e {
   background: linear-gradient(rgb(81, 85, 94), rgb(41, 42, 47));
   border: 1px solid #00000065;
 }
-.grid__35551 {
+.grid_b0068a {
   font-weight: 700;
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
 }
-.theme-dark .form_d8a4a1:before {
+.theme-dark .form_a7d72e:before {
   display: none;
 }
 
 /* Avatars */
-.avatar__08316.clickable__09456,
+.avatar_f9f2ca.clickable_f9f2ca,
 .avatar-SmRMf {
   border-radius: 3px;
   box-shadow: 2px 2px 2px #00000036;
@@ -59,21 +59,21 @@
 }
 
 /* Reactions */
-.reaction_ef7e09,
-.role_d81130,
-.role__3655d,
-.role__9690d,
+.reaction_f61c73,
+.role_e4010c,
+.role_da85cf,
+.role_deddac,
 .akaBadge__27cd4 {
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
   border: 1px solid #00000065;
 }
-.reaction_ef7e09.reactionMe__9fc5c {
+.reaction_f61c73.reactionMe_f61c73 {
   background: linear-gradient(rgb(55, 68, 94), rgb(0, 48, 145));
   border: 1px solid #000000;
 }
 
 /* Reply Bartender */
-.container__72188 {
+.container_b11c5e {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
   border: 1px solid #00000065;
@@ -89,7 +89,7 @@
 }
 
 /* New Messages Bartender */
-.newMessagesBar__8b272 {
+.newMessagesBar_cf58b5 {
   border-radius: 3px;
   padding: 3px 5px 1.5px;
   font-weight: 700;
@@ -113,7 +113,7 @@
 }
 
 /* Older Messages Bartender */
-.jumpToPresentBar__69174 {
+.jumpToPresentBar_cf58b5 {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
   border: 1px solid #00000065;
@@ -131,8 +131,8 @@
 .iconContainer-1-SsTR {
   color: white;
 }
-.optionName__5eac3,
-.optionIcon__5a169 {
+.optionName_ec5137,
+.optionIcon_ec5137 {
   color: rgb(255, 255, 255);
 }
 .label-2gNW3x {
@@ -140,49 +140,49 @@
   color: rgb(255, 255, 255);
   text-shadow: 2px 2px 2px #00000000;
 }
-.wrapper__4e6b6 {
+.wrapper_ef319f {
   border-radius: 3px;
   border: 1px solid #000000;
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
   color: rgb(0, 0, 0);
 }
-.icon_e3aee9 {
+.icon_a3b500 {
   color: black;
 }
 
 /* Markup */
-.markup_a7e664 code {
+.markup_f8f345 code {
   background: linear-gradient(rgb(31, 31, 34), rgb(56, 58, 65));
   border: 1px solid var(--background-tertiary);
 }
 
 /* Invites */
-.wrapper__8a5dd {
+.wrapper_a71a1c {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 0.2px solid #000000;
 }
 
 /* Audio embeds */
-.theme-dark .wrapperAudio__178e9 {
+.theme-dark .wrapperAudio_f316dd {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
 }
 
 /* File embed */
-.attachment__06ca3 {
+.attachment_b52bef {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
   border-radius: 3px;
 }
 
 /* The listening party is over */
-.theme-dark .invite__2a93b {
+.theme-dark .invite_f61cb8 {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
 }
 
 /* Invalid poop */
-.invalidPoop__9bdd8 {
+.invalidPoop_ff31dd {
   border: 1px solid #00000065;
   border-radius: 3px;
 }
@@ -194,7 +194,7 @@
 */
 
 /* Preview mode */
-.notice__99c03 {
+.notice_dd5a33 {
   background: linear-gradient(
     to bottom,
     rgba(227, 145, 145, 0.363) 0%,
@@ -204,9 +204,9 @@
   background-color: #4e5d94;
 }
 .lookOutlined-3sRXeN.colorWhite-rEQuAQ,
-.colorable__4f530.green_a14a3a,
-.colorable__4f530.green_a14a3a,
-.colorable__4f530.green_a14a3a.active_ff29dc {
+.colorable_ef18ee.green_ef18ee,
+.colorable_ef18ee.green_ef18ee,
+.colorable_ef18ee.green_ef18ee.active_ef18ee {
   background: linear-gradient(
     to bottom,
     rgba(180, 227, 145, 1) 0%,
@@ -244,8 +244,8 @@
 }
 
 /* Server "Complete these steps" Banner */
-.wrapper__57349,
-.notice_a687ab,
+.wrapper_faf5ab,
+.notice_a50047,
 .notice-5OG6bf {
   background: linear-gradient(to bottom, rgb(146, 145, 227) 0%, hsl(227, 31%, 44%) 50%, rgb(112, 131, 197) 100%);
   box-shadow: 0 0 5px 5px #4189c38c;
