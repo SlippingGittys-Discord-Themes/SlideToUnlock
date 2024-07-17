@@ -3,17 +3,6 @@
 
 # ![screenshot](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/screenshots/aCCIaKvdkM.png)
 
-## How to use 📖
-
-#### Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp). Browser users should look into [Stylus](https://github.com/openstyles/stylus).
-
-* Vencord/BetterDiscord/BeautifulDiscord users can download [SlideToUnlock.theme.css](https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/SlideToUnlock.theme.css) and either
-  * Inject the CSS file with BeautifulDiscord
-  * Place in the BetterDiscord themes folder
-  * Place in the Vencord theme folder
-* Stylus
-  * Head [here](https://github.com/SlippingGitty/SlideToUnlock/raw/main/SlideToUnlock.user.css) to install.
-
 <details>
 <summary>Screenshots 🖼️</summary>
 
