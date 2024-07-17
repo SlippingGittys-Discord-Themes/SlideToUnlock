@@ -1,0 +1,275 @@
+/*
+///////////////////
+///FLYOUT MENUS
+///////////////////
+*/
+
+/* Inbox */
+.header_f0cd33,
+.header_f0cd33 .tab_f0cd33 {
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  border-radius: 3px;
+  color: black;
+}
+.messageContainer_ddb5b4 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+  margin-top: -6px;
+}
+.messageGroupCozy_ac90a2 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+}
+.channelHeader_f3978e {
+  background: #00000000;
+  color: black;
+  border-radius: 3px;
+}
+.scroller_f1c3d9 {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+  border: 1px solid #00000065;
+}
+.closeButton_ddb5b4,
+.secondary__45d4f {
+  margin-right: 16px;
+  border-radius: 50%;
+  background: linear-gradient(
+    to bottom,
+    rgb(227, 145, 145) 0%,
+    rgba(196, 25, 25, 0.705) 50%,
+    rgba(227, 145, 145, 0.397) 100%
+  );
+  border: 1px solid #000000;
+  color: rgb(255, 255, 255);
+}
+.messages_c06487 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+  margin-top: -6px;
+}
+.tertiary_ad6d80 {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.582) 0%, rgb(27, 179, 72) 50%, rgb(0, 175, 44) 100%);
+  border: 1px solid #000000;
+  color: white;
+}
+.collapseButton_d09ffd {
+  left: -2px;
+}
+.list_c6aa12 {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+  border: 1px solid #00000065;
+}
+.container_acb8b3 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #00000065;
+  border-radius: 3px;
+  margin-top: -6px;
+}
+
+/* Threads */
+.header_e664f3 {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+.iconWrapper_ec583a {
+  border: 1px solid #000000;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+}
+.icon_ec583a {
+  color: #000;
+}
+
+/* User info */
+.theme-dark .footer-1fjuF6 {
+  font-weight: 700;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+}
+.theme-dark .body-3iLsc4 {
+  font-weight: 700;
+  background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
+  border: 1px solid #00000065;
+}
+.inputDefault-3FGxgL {
+  color: grey;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  border: 1px solid #00000065;
+}
+.headerPlaying-j0WQBV,
+.headerTop-3C2Zn0 {
+  background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
+  border: 1px solid #00000065;
+}
+.bodyInnerWrapper-2bQs1k,
+.footer-3naVBw {
+  background: #00000000;
+}
+.userPopout-2j1gM4 {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+.userPopout-2j1gM4:hover {
+  box-shadow: 2px 10px 20px #00b1e750;
+  transition: 0.3s;
+}
+
+/* Emote info */
+.emojiSection_e58351 .header_c6ee36 {
+  border-radius: 3px;
+  border-width: 1px;
+  border: 1px solid #00000065;
+  background: linear-gradient(rgb(0, 0, 0), rgb(38, 39, 41));
+}
+.guildSection_e58351 {
+  border-radius: 3px;
+  border-width: 1px;
+  border: 1px solid #00000065;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+}
+
+/* DM Menu */
+.inner_effbe2 {
+  font-weight: 700;
+  background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
+  border: 1px solid #00000065;
+}
+
+/* Quick Switcher */
+.quickswitcher_f4e139 {
+  background: linear-gradient(rgb(15, 16, 19), rgb(27, 27, 31));
+}
+.input_f4e139 {
+  font-weight: 700;
+  background: linear-gradient(rgb(15, 16, 19), rgb(27, 27, 31));
+}
+.scroller_f4e139 {
+  background: linear-gradient(rgb(15, 16, 19), rgb(27, 27, 31));
+}
+
+/* Emoji Selector */
+.list_a3bc57 {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+  border: 1px solid #00000065;
+}
+
+.list-obNEuP,
+.header_a3bc57,
+.inspector_c6ee36,
+.contentWrapper_af5dbb {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+.wrapper_e06857 {
+  background: linear-gradient(rgba(72, 73, 75, 0), rgba(38, 39, 41, 0));
+  border: 1px solid #00000000;
+}
+.categoryItemDefaultCategorySelected_dfa278,
+.categoryItemDefaultCategorySelected_dfa278:hover {
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+  border: 1px solid #00000065;
+}
+
+/* Image uploading preview */
+.autocompleteInner_bcc24e {
+  background: linear-gradient(to bottom, rgb(87, 87, 87) 0%, rgb(44, 44, 44) 50%, rgb(0, 0, 0) 100%);
+  border: 1px solid #00000065;
+}
+
+.autocompleteInner_bcc24e:hover {
+  box-shadow: 0 0 5px 5px #4189c38c;
+  transition: 0.3s;
+}
+
+.upload_df1eaf,
+.uploadContainer_df1eaf {
+  background: linear-gradient(to bottom, rgb(87, 87, 87) 0%, rgb(44, 44, 44) 50%, rgb(0, 0, 0) 100%);
+}
+
+/* Invite friends */
+.theme-dark .footer-1hTRRZ {
+  background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61));
+  border: 1px solid #00000065;
+}
+.lookOutlined-3sRXeN.colorGreen-29iAKY {
+  border-radius: 3px;
+  border-width: 1px;
+  border: 1px solid #00000065;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
+  color: black;
+  font-weight: 700;
+}
+
+/* Pins */
+.header-ykumB {
+  border-radius: 3px;
+  border-width: 1px;
+  background-color: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
+}
+.header_ac90a2 {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+.messagesPopout_ac90a2 {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+}
+.footer_ac90a2 {
+  background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
+}
+
+/*
+////////////////////////////////////////////////////////////////////////////////////////////
+////TEMP HOT FIX FOR SERVER CREATION TOOL THAT WILL BE REMOVED WITH DISCORD GETS IT TOGETHER
+////////////////////////////////////////////////////////////////////////////////////////////
+*/
+.childWrapper_a6ce15,
+.wrapper__8436d {
+  box-shadow: 2px 2px 2px black;
+}
+.footer-31IekZ,
+.container-x8Y1ix {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+}
+.footerTitle-3Bslxi,
+.subtitle-3m-md1,
+.title-1_TkpU,
+.colorHeaderSecondary-g5teka,
+.text-PdAsFQ,
+.title-OdeD-o,
+.closeButton-3wDOHY {
+  color: white;
+  text-shadow: 2px 2px 2px #00000000;
+}
+.theme-light .root_f9a4c9 {
+  background: linear-gradient(rgb(27, 28, 30), rgb(10, 10, 10));
+}
+
+/*
+////////////////////////
+////DISCOVER (ALPHA)
+////////////////////////
+*/
+.sidebar_a4d4d9 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+}
+.theme-dark .card_e90879 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
+  border: 1px solid #0000007c;
+  border-radius: 3px;
+}
+.scroller-3j5xK2 {
+  background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61));
+  border: 1px solid #0000007c;
+}
+.headerContentWrapper-1u9R_E {
+  background-image: url("https://illaddanimagelater.png"); /* image will be added later */
+  border: 1px solid #0000007c;
+  border-radius: 3px;
+}
+.search-25t1e9,
+.searchBox-31Zv9h,
+.searchBoxInput-3h4etz {
+  background-color: #fff0;
+}
+.optionContainer_e3f8c2 {
+  background: linear-gradient(rgb(72, 73, 75), rgb(17, 18, 19));
+  border: 1px solid #0000007c;
+  border-radius: 3px;
+}

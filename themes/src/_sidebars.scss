@@ -1,0 +1,148 @@
+/*
+//////////////
+//SIDEBARS
+//////////////
+*/
+
+/* Members Sidebar */
+.members_cbd271, .hiddenMembers_cbd271, .membersWrap_cbd271 {
+    background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) ;
+    }
+    .member_cbd271, .members_cbd271 {
+     background-color: transparent;
+    }
+    .members_cbd271>div {
+    background: transparent;
+    }
+    .container_cbd271, .membersWrap_cbd271 {
+      background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) ;
+    }
+    .interactiveSelected_c91bad {
+      background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) ;
+      border: 1px solid #00000065;
+    }
+    .linkButton_c91bad:hover, .interactive_c91bad:hover {
+      background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) ;
+      border: 1px solid #00000065;
+    }
+    .button_f67531:hover, .peopleListItem_d51464:hover {
+      background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) ;
+      box-shadow: 0 0 3px 3px #4189c38c;
+    }
+
+.member_cbd271, .members_cbd271 {
+    background: none;
+}
+.theme-dark .container_b2ca13 {
+  background: linear-gradient(rgb(90, 90, 90), rgb(24, 24, 24));
+}
+    /* Channels */
+    .container_ee69e0 {
+      background: linear-gradient(rgb(17, 18, 22), rgb(77, 77, 87)) ;
+    }
+    .scroller_c47fa9, .scroller__244e5 {
+      background: linear-gradient(rgb(17, 18, 22), rgb(77, 77, 87)) ;
+    }
+    .total_a5bc92 {
+      font-weight: 700;
+      background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
+      color: rgb(0, 0, 0) ;
+    }
+    .modeSelected_d8bfb3 .link_d8bfb3, .modeSelected_d8bfb3:hover .link_d8bfb3 {
+      background: linear-gradient(rgb(17, 18, 22), rgb(77, 77, 87)) ;
+      border: 1px solid #00000065;
+    }
+    .wrapper_d8bfb3:hover {
+      box-shadow: 0 0 2px 2px #4189c38c;
+      right: 2px;
+      background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
+      transition: 0.3s;
+    }
+    .users_a5bc92 {
+      font-weight: 700;
+      background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
+      color: rgb(0, 0, 0) ;
+      box-shadow: 2px 2px 2px #00000036 ;
+    }
+    
+    /* Unread Bartender */
+    .unreadMentionsIndicatorBottom-BXS58x .unreadMentionsBar-1VrBNe:before {
+      bottom: -8px;
+    }
+    .unread_d8bfb3 {
+      width: 4px;
+      border-radius: 0px 0px 0px 0px;
+      left: 1.2px;
+      border: 1px solid #000000;
+      background-color: rgb(172, 169, 169);
+    }
+    
+    /* Threads */
+    .form_fb4810 {
+      background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) ;
+    }
+    
+    /*
+    ////////////////////////////
+    ///CHANNELS INFO/SEARCH
+    ///////////////////////////
+    */
+    
+    /* Channel Desc. */
+    .container_fc4f04.themed_fc4f04, .clickable_fd6364 .header_fd6364  {
+      background: linear-gradient(rgb(79, 82, 91), rgb(51, 54, 61)) ;
+    }
+    .gatedContent_def860 {
+      background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) ;
+    }
+    
+    /* Search */
+    .searchBar_e0840f, .input_df4dd0 {
+      background: linear-gradient(rgb(0, 0, 0), rgb(16, 16, 17)) ;
+      border: 1px solid #00000065;
+    }
+    .searchBar_e0840f:hover {
+      box-shadow: 0 0 2px 3px #4189c38c;
+      transition: 0.3s;
+    }
+    .searchBar_a46bef {
+      background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) ;
+      border-radius: 4px;
+      border: 1px solid #000000;
+    }
+    .searchBar_a46bef:hover {
+      box-shadow: 0 0 2px 3px #4189c38c;
+      transition: 0.3s;
+    }
+    .searchBar_f0963d  {
+      background: linear-gradient(rgb(79, 82, 91), rgb(51, 54, 61)) ;
+    }
+    .searchBar_f0963db:hover {
+      box-shadow: 0 0 2px 3px #4189c38c;
+    }
+    .searchBarComponent_f0963d {
+      background: linear-gradient(rgb(34, 37, 42), rgb(55, 56, 61)) ;
+      border-radius: 1px;
+      border: 1px solid #000000;
+    }
+    .searchBarComponent_f0963d:hover {
+      box-shadow: 0 0 2px 3px #4189c38c;
+    }
+    .scroller_c2b47d {
+      background: linear-gradient(rgb(34, 37, 42), rgb(7, 7, 7)) ;
+      border-radius: 1px;
+      border: 1px solid #000000;
+    }
+    .searchHeader_b7c924 {
+      background: linear-gradient(rgb(51, 54, 61), rgb(79, 82, 91)) ;
+    }
+    .message_ddc613 {
+      background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
+      border: 1px solid #00000065;
+      border-radius: 3px;
+      margin-top: -6px;
+    }
+    .channelName-3w2Y3c {
+      background: none;
+    }
+    
