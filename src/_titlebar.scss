@@ -5,17 +5,17 @@
 */
 
 /* Wndows Title Bar */
-.winButton_a934d8 .withFrame_a934d8 {
+.winButton__421ed .withFrame__421ed {
   height: 18px;
   margin-top: 0px;
   margin-bottom: 2px;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
 }
-.winButton_a934d8 .titleBar_a934d8 {
+.winButton__421ed .titleBar__421ed {
   margin-top: 1px;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
 }
-.winButton_a934d8 {
+.winButton__421ed {
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
   color: rgb(255, 255, 255);
   margin-bottom: -1px;
@@ -23,20 +23,20 @@
 }
 
 /* macOS Title Bar */
-.typeMacOS_a934d8 {
+.typeMacOS__421ed {
   position: relative;
   width: 100%;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
   border-bottom: 1px solid rgba(0, 0, 0, 0.596);
   height: 35px;
 }
-.platform-osx .scroller_fea3ef {
+.platform-osx .scroller_ef3116 {
   padding-top: 16px;
 }
-.platform-osx .layer_d4b6c5 .baseLayer_d4b6c5 {
+.platform-osx .layer__960e4 .baseLayer__960e4 {
   background-color: rgb(32, 34, 37);
 }
-.platform-osx .wrapper_fea3ef {
+.platform-osx .wrapper_ef3116 {
   margin: 0;
   padding: 0;
 }

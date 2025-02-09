@@ -5,33 +5,33 @@
 */
 
 /* Inbox */
-.header_f0cd33,
-.header_f0cd33 .tab_f0cd33 {
+.header_ab6641,
+.header_ab6641 .tab_ab6641 {
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
   border-radius: 3px;
   color: black;
 }
-.messageContainer_ddb5b4 {
+.messageContainer__95796 {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
   border-radius: 3px;
   margin-top: -6px;
 }
-.messageGroupCozy_ac90a2 {
+.messageGroupCozy__45690 {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
   border-radius: 3px;
 }
-.channelHeader_f3978e {
+.channelHeader__35a7e {
   background: #00000000;
   color: black;
   border-radius: 3px;
 }
-.scroller_f1c3d9 {
+.scroller__2692d {
   background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
   border: 1px solid #00000065;
 }
-.closeButton_ddb5b4,
+.closeButton__95796,
 .secondary__45d4f {
   margin-right: 16px;
   border-radius: 50%;
@@ -44,7 +44,7 @@
   border: 1px solid #000000;
   color: rgb(255, 255, 255);
 }
-.messages_c06487 {
+.messages__1ccd1 {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
   border-radius: 3px;
@@ -55,14 +55,14 @@
   border: 1px solid #000000;
   color: white;
 }
-.collapseButton_d09ffd {
+.collapseButton__427f0 {
   left: -2px;
 }
-.list_c6aa12 {
+.list_c441f0 {
   background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
   border: 1px solid #00000065;
 }
-.container_acb8b3 {
+.container__6764b {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
   border: 1px solid #00000065;
   border-radius: 3px;
@@ -70,14 +70,14 @@
 }
 
 /* Threads */
-.header_e664f3 {
+.header_d9c882 {
   background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
 }
-.iconWrapper_ec583a {
+.iconWrapper__54b20 {
   border: 1px solid #000000;
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(189, 189, 189) 50%, rgb(219, 219, 219) 100%);
 }
-.icon_ec583a {
+.icon__54b20 {
   color: #000;
 }
 
@@ -114,13 +114,13 @@
 }
 
 /* Emote info */
-.emojiSection_e58351 .header_c6ee36 {
+.emojiSection_d5cd2d .header_c0e32c {
   border-radius: 3px;
   border-width: 1px;
   border: 1px solid #00000065;
   background: linear-gradient(rgb(0, 0, 0), rgb(38, 39, 41));
 }
-.guildSection_e58351 {
+.guildSection_d5cd2d {
   border-radius: 3px;
   border-width: 1px;
   border: 1px solid #00000065;
@@ -128,59 +128,59 @@
 }
 
 /* DM Menu */
-.inner_effbe2 {
+.inner_fea832 {
   font-weight: 700;
   background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54));
   border: 1px solid #00000065;
 }
 
 /* Quick Switcher */
-.quickswitcher_f4e139 {
+.quickswitcher_ac6cb0 {
   background: linear-gradient(rgb(15, 16, 19), rgb(27, 27, 31));
 }
-.input_f4e139 {
+.input_ac6cb0 {
   font-weight: 700;
   background: linear-gradient(rgb(15, 16, 19), rgb(27, 27, 31));
 }
-.scroller_f4e139 {
+.scroller_ac6cb0 {
   background: linear-gradient(rgb(15, 16, 19), rgb(27, 27, 31));
 }
 
 /* Emoji Selector */
-.list_a3bc57 {
+.list_c656ac {
   background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
   border: 1px solid #00000065;
 }
 
 .list-obNEuP,
-.header_a3bc57,
-.inspector_c6ee36,
-.contentWrapper_af5dbb {
+.header_c656ac,
+.inspector_c0e32c,
+.contentWrapper__08434 {
   background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
 }
-.wrapper_e06857 {
+.wrapper__14245 {
   background: linear-gradient(rgba(72, 73, 75, 0), rgba(38, 39, 41, 0));
   border: 1px solid #00000000;
 }
-.categoryItemDefaultCategorySelected_dfa278,
-.categoryItemDefaultCategorySelected_dfa278:hover {
+.categoryItemDefaultCategorySelected_b9ee0c,
+.categoryItemDefaultCategorySelected_b9ee0c:hover {
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
   border: 1px solid #00000065;
 }
 
 /* Image uploading preview */
-.autocompleteInner_bcc24e {
+.autocompleteInner__13533 {
   background: linear-gradient(to bottom, rgb(87, 87, 87) 0%, rgb(44, 44, 44) 50%, rgb(0, 0, 0) 100%);
   border: 1px solid #00000065;
 }
 
-.autocompleteInner_bcc24e:hover {
+.autocompleteInner__13533:hover {
   box-shadow: 0 0 5px 5px #4189c38c;
   transition: 0.3s;
 }
 
-.upload_df1eaf,
-.uploadContainer_df1eaf {
+.upload_aa605f,
+.uploadContainer_aa605f {
   background: linear-gradient(to bottom, rgb(87, 87, 87) 0%, rgb(44, 44, 44) 50%, rgb(0, 0, 0) 100%);
 }
 
@@ -204,13 +204,13 @@
   border-width: 1px;
   background-color: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41));
 }
-.header_ac90a2 {
+.header__45690 {
   background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
 }
-.messagesPopout_ac90a2 {
+.messagesPopout__45690 {
   background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
 }
-.footer_ac90a2 {
+.footer__45690 {
   background: linear-gradient(rgba(29, 29, 29, 255), rgba(1, 1, 1, 255));
 }
 
@@ -237,7 +237,7 @@
   color: white;
   text-shadow: 2px 2px 2px #00000000;
 }
-.theme-light .root_f9a4c9 {
+.theme-light .root__49fc1 {
   background: linear-gradient(rgb(27, 28, 30), rgb(10, 10, 10));
 }
 
@@ -246,7 +246,7 @@
 ////DISCOVER (ALPHA)
 ////////////////////////
 */
-.sidebar_a4d4d9 {
+.sidebar_c48ade {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75));
 }
 .theme-dark .card_e90879 {
@@ -268,7 +268,7 @@
 .searchBoxInput-3h4etz {
   background-color: #fff0;
 }
-.optionContainer_e3f8c2 {
+.optionContainer__949ab {
   background: linear-gradient(rgb(72, 73, 75), rgb(17, 18, 19));
   border: 1px solid #0000007c;
   border-radius: 3px;

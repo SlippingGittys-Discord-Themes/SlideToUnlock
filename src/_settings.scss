@@ -42,35 +42,35 @@
 */
 
 /* User Quick Settings Container  */
-.container_b2ca13, .container_b2ca13 .avatar_b2ca13 {
+.container__37e49, .container__37e49 .avatar__37e49 {
   background: linear-gradient(rgb(90, 90, 90), rgb(24, 24, 24)) ;
   border: 1px solid #00000065;
 }
-.membersGroup_cbd271 {
+.membersGroup_c8ffbb {
   color: white;
   text-transform: none;
 }
 
 /* Settings */
-.accountProfileCard_b69b77 {
+.accountProfileCard__1fed1 {
   background: linear-gradient(rgb(66, 66, 68), rgb(27, 28, 30)) ;
   border: 1px solid #00000065;
 }
-.sidebarRegionScroller_c25c6d {
+.sidebarRegionScroller__23e6b {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) ;
   border: 1px solid #00000065;
 }
-.contentRegionScroller_c25c6d {
+.contentRegionScroller__23e6b {
   font-weight: 700;
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
   border: 1px solid #00000065;
 }
-.fieldList_b69b77 {
+.fieldList__1fed1 {
   font-weight: 700;
   background: linear-gradient(rgba(72, 73, 75, 0), rgba(38, 39, 41, 0)) ;
 }
-.background_b69b77 {
+.background__1fed1 {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) ;
   border: 1px solid #00000065;
@@ -82,7 +82,7 @@
   border: 1px solid #000000;
   color: rgb(0, 0, 0) ;
 }
-.theme-dark .closeButton_df5532 {
+.theme-dark .closeButton_c2b141 {
   border-radius: 3px;
   padding: 6px 10px 5px;
   font-weight: 700;
@@ -90,7 +90,7 @@
   border: 1px solid #000000;
   color: rgb(0, 0, 0) ;
 }
-.theme-dark .closeButton_df5532:hover {
+.theme-dark .closeButton_c2b141:hover {
   background: linear-gradient(to bottom, rgb(104, 0, 0) 0%,rgb(197, 0, 0) 50%,rgb(68, 0, 0) 100%); 
   box-shadow: 0 0 2px 3px #4189c38c;
   transition: 0.3s;
@@ -103,7 +103,7 @@
   border: 1px solid #000000;
   color: rgb(0, 0, 0) ;
 }
-.disableButton_adabdf  {
+.disableButton_d286c5  {
   margin-right: 16px;
   border-radius: 3px;
   padding: 6px 10px 5px;
@@ -112,12 +112,12 @@
   border: 1px solid #000000;
   color: rgb(255, 255, 255) ;
 }
-.colorable_ef18ee.red_ef18ee {
+.colorable_f1ceac.red_f1ceac {
   background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(151, 1, 1) 50%,rgb(227, 145, 145) 100%); 
   border: 1px solid #000000;
   color: rgb(255, 255, 255) ;
 }
-.colorable_ef18ee.primaryDark_ef18ee {
+.colorable_f1ceac.primaryDark_f1ceac {
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
   color: black !important;
 }
@@ -147,7 +147,7 @@
   border: 1px solid #000000;
   color: rgb(255, 255, 255) ;
 }
-.horizontal_bba380>.flex_bba380:first-child {
+.horizontal__7c0ba>.flex__7c0ba:first-child {
   background: rgba(0, 0, 0, 0) ;
   border-radius: 3px;
 }
@@ -156,10 +156,10 @@
   border-radius: 3px;
   border: .2px solid #000000;
 }
-.emptyResultsWrap_c2b47d  {
+.emptyResultsWrap_a9e706  {
     background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
 }
-.scroller_c2b47d {
+.scroller_a9e706 {
   padding: 0px 0x 0px;
 }
 .lookFilled-yCfaCM.colorBrand-I6CyqQ, .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B {
@@ -180,10 +180,10 @@
   box-shadow: 0 0 2px 3px #4189c38c;
   transition: 0.3s;
 }
-.accountList-Wii_T5,.connection_e2a436, .connectionHeader_e2a436, .theme-dark .feature-2IUcBI, .guildSubscriptionSlots__5823d, .card__11580, .billingInformation_a206c7, .detailsBlock_a206c7:last-child, .noItemsCard_e70817, .promotionCard_e8af36, .theme-dark .notDetected_fd966d, .theme-dark .addGamePopout_fd966d {
+.accountList-Wii_T5,.connection_c7f964, .connectionHeader_c7f964, .theme-dark .feature-2IUcBI, .guildSubscriptionSlots__5823d, .card__11580, .billingInformation_e335a7, .detailsBlock_e335a7:last-child, .noItemsCard__70151, .promotionCard_d4883c, .theme-dark .notDetected_cc46f0, .theme-dark .addGamePopout_cc46f0 {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) ;
 }
-.selectedBackground_ae3c77 {
+.selectedBackground_e681d1 {
   background: linear-gradient(to bottom, rgba(235, 235, 235) 0%,hsl(303, 74%, 49%) 50%,hsl(308, 73%, 68%) 100%); 
   border: 1px solid #00000065;
   border-radius: 3px;
@@ -234,7 +234,7 @@
   .powercord-product-header h4 {
     font-size: 16px;
   }
-  .powercord-product .divider_b8ab18 {
+  .powercord-product .divider_c87e85 {
     display: none;
   }
   .description, .powercord-product .metadata, .powercord-product-permissions, .powercord-product-footer {
@@ -299,7 +299,7 @@
   }
   
   /* Updater */
-  .info_bc1f7a, .marginBottom20_f0a9ff {
+  .info__6436f, .marginBottom20_cd0bbe {
     background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
     border: 1px solid #00000065;
   }
